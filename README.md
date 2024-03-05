@@ -1,28 +1,26 @@
-<p>Me encuentro aprendiendo programación de manera autodidacta con entusiasmo y dedicación. En constante búsqueda de conocimiento y desafiando constantemente mis límites. ¡Cada error es una oportunidad para aprender y crecer como desarrollador.</p>
+### Who is Alexander:
+<p>
+  Me encuentro aprendiendo programación de manera autodidacta con entusiasmo y dedicación. En constante búsqueda de conocimiento y desafiando constantemente mis límites. ¡Cada error es una oportunidad para aprender y crecer como desarrollador.
+</p>
 
-<h4
-  Principal Stack: 
-  
-</h4>
+<h4>Principal Stack:</h4>
 
 <p>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  
 </p>
-  
-<h4
-  Programming Languages:
-  
-  </h4>
-  
+
+<h4>Programming Languages:</h4>
+
 <p>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  </p>
-<h4
-  Frontend Development:
   
-  </h4>
+</p>
+
+<h4>Frontend Development:</h4>
+
 <p>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
