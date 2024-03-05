@@ -3,7 +3,11 @@
   Me encuentro aprendiendo programación de manera autodidacta con entusiasmo y dedicación. En constante búsqueda de conocimiento y desafiando constantemente mis límites. ¡Cada error es una oportunidad para aprender y crecer como desarrollador.
 </p>
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <a  href="#" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>
+</p>
 
 <h4>Contact me:</h4>
 <a href="mailto: anthonyalexanderalfonso@hotmail.com">
@@ -55,9 +59,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-  <a  href="#" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Its-Alexandder&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
