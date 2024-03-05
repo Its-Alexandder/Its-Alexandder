@@ -4,14 +4,14 @@
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-  <a  href="#" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>
 </p>
 
 <h4>Contact me:</h4>
 <a href="mailto: anthonyalexanderalfonso@hotmail.com">
 <img src="https://img.shields.io/badge/-delover%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+  <a  href="#" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>
 
 <h4>Principal Stack:</h4>
 
