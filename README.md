@@ -2,6 +2,12 @@
 <p>
   Me encuentro aprendiendo programación de manera autodidacta con entusiasmo y dedicación. En constante búsqueda de conocimiento y desafiando constantemente mis límites. ¡Cada error es una oportunidad para aprender y crecer como desarrollador.
 </p>
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+<h4>Contact me:</h4>
+<a href="mailto: anthonyalexanderalfonso@hotmail.com">
+<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 <h4>Principal Stack:</h4>
 
@@ -15,7 +21,8 @@
 
 <p>
   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   
 </p>
 
@@ -30,20 +37,27 @@
 </p>
   
 <h4>Tools & Technologies:</h4>
+  
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
+  
+<h4>Operanting Systems:</h4>
+<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-<p>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  
-</p>
-</br>
+<h4>IDEs/Editors:</h4>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+<h4>Others:</h4>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
+  <a  href="#" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Its-Alexandder&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
