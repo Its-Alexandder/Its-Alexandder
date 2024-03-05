@@ -3,7 +3,7 @@
   Me encuentro aprendiendo programación de manera autodidacta con entusiasmo y dedicación. En constante búsqueda de conocimiento y desafiando constantemente mis límites. ¡Cada error es una oportunidad para aprender y crecer como desarrollador.
 </p>
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 </p>
 
 <h4>Contact me:</h4>
